@@ -1,4 +1,4 @@
 <?php
-  setcookie('customCookie', 'customCookie', 180000);
-  setcookie('visitedCount', 1);
+  setcookie("customCookie", "customCookie", time() + 180);
+  setcookie("visitedCount", 1);
 ?>

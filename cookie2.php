@@ -1,3 +1,3 @@
 <?php
-  setcookie('visitedCount', 2)
+  setcookie("visitedCount", 2)
 ?>
