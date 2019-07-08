@@ -1,3 +1,3 @@
 <?php
-  setcookie("visitedCount", 2, 0, '/');
+  setcookie("visitedCount", 2, 0, "/");
 ?>

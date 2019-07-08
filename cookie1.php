@@ -1,4 +1,4 @@
 <?php
-  setcookie("customCookie", "customCookie", time() + 180, '/');
-  setcookie("visitedCount", 1, 0, '/');
+  setcookie("customCookie", "customCookie", time() + 180, "/");
+  setcookie("visitedCount", 1, 0, "/");
 ?>
